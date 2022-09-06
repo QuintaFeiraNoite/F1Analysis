@@ -1,3 +1,3 @@
 # F1Analysis
 
-Getting F1🏎️ data using *fastf1* API. 
+Getting F1🏎️ data using *Ergast* API. 
