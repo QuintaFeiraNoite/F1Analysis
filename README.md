@@ -1,3 +1,3 @@
 # F1Analysis
 
-Getting F1🏎️ data using *Ergast* API. 
+Estudando um pouco de Python e trazendo resultados da Formula 1 🏎️ via API
